@@ -1,3 +1,4 @@
+# Dev-Phase - this README reflects the planned End-State of the project
 # Storage Warriors -- The Solution for Storage Optimization
 
 # Installation
